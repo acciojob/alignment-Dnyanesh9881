@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+     table,
+tr,
+td{
+	border:1px solid black;
+    padding:1px;
+	
+}
+table{
+	width:100%
+	
+}
+.t12{
+	text-align:center
+}
+.t13{
+	text-align:right;
+}
+#t-image{
+	text-align:center;
+	
+}
+#table2,#table3{
+	height:120px;
+}
+#green{
+	background-color:green;
+	height:15px;
+}
+#blue{
+	background-color:blue;
+	height:15px;
+}
+
+
+
