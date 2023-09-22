@@ -9,6 +9,7 @@ td{
 table{
 	width:100%
 	
+	
 }
 .t12{
 	text-align:center
@@ -20,7 +21,7 @@ table{
 	text-align:center;
 	
 }
-#table2,#table3{
+#table-2,#table-3,{
 	height:120px;
 }
 #green{
@@ -31,6 +32,7 @@ table{
 	background-color:blue;
 	height:15px;
 }
+
 
 
 
