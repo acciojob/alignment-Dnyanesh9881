@@ -6,10 +6,12 @@ td{
     padding:1px;
 	
 }
+#head{
+	text-align:center;
+	margin:0px;
+}
 table{
 	width:100%
-	
-	
 }
 .center{
 	text-align:center
@@ -21,7 +23,7 @@ table{
 	text-align:center;
 	
 }
-#table-2,#table-3,{
+#table-2,#table-3{
 	height:120px;
 }
 #green{
